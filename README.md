@@ -6,11 +6,11 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 ## Results
 -- In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
 
-![DataFrame](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![DataFrame](https://github.com/tianiedwards98/surfs_up/blob/main/Images/June_temps.png?raw=true)
 
 -- In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
 
-![DataFrame](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![DataFrame](https://github.com/tianiedwards98/surfs_up/blob/main/Images/December_temps.png?raw=true)
 
 -- Standard deviation is 3.25 in June and 3.75 in December -- making a .5 difference in the two different seasons
 
