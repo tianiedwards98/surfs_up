@@ -4,9 +4,9 @@
 The purpose of our analysis is to see temperature statistics for June and December to see if running a surf shop is sustainable year around. 
 Tasks:
 
- -- Get the temperature data for June and December.
- -- Store the temperatures in a list then convert them to a dataframe.
- -- Get summary statistics 
+ - Get the temperature data for June and December.
+ - Store the temperatures in a list then convert them to a dataframe.
+ - Get summary statistics 
  
  Here is what we found:
 
